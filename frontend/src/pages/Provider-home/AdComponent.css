@@ -1,0 +1,13 @@
+#adcomponent{
+    position: fixed;
+    width: 200px;
+    height: 300px;
+    top: 200px;
+    right: 70px;
+}
+
+@media screen and (max-width: 1000px){
+    #adcomponent{
+        display: none;
+    }
+}
