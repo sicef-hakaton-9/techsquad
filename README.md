@@ -1,4 +1,4 @@
-# Aplikacija „<naziv_aplikacije>”
+# Aplikacija „CityConnect”
 
 ## Tim „TechSquad”
 
@@ -12,13 +12,6 @@ Učesnici su imali zadatak da naprave **aplikaciju na temu „softverska podršk
 - [Željko Đokić](https://github.com/zeljkodjokic)
 - [Vojin Đorđević](https://github.com/djordjevicv)
 - [Saša Stanišić](https://github.com/sasastanisic)
-
-## Opis aplikacije
-
-<!--
-Na primer odgovoriti na neka od sledeća pitanja:
-Šta radi aplikacija? Koji je njen cil? Šta pruža korisniku? Kako rešava zadat problem? Koje su njene mogućnosti?
--->
 
 ## Tehnologije
 
