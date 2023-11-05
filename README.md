@@ -14,7 +14,10 @@ Učesnici su imali zadatak da naprave **aplikaciju na temu „softverska podršk
 - [Saša Stanišić](https://github.com/sasastanisic)
 
 ## Tehnologije
-
+- React.js
+- Tachyons
+- Spring Boot
+- MySQL
 <!--
 - JavaScript
 - MySQL
