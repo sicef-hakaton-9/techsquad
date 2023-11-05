@@ -18,6 +18,8 @@ Učesnici su imali zadatak da naprave **aplikaciju na temu „softverska podršk
 - Tachyons
 - Spring Boot
 - MySQL
-  
+
+# Link prezentacije
+https://prezi.com/view/wG8HMBeQftkyDY4iSubO/
 ----------
 Više o SICEF-u, organizatoru SICEF Hakatona, možete saznati na sajtu: https://sicef.info. 
