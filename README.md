@@ -1,4 +1,4 @@
-# Aplikacija „<naziv_aplikacije>”
+# Aplikacija „CityConnect”
 
 ## Tim „TechSquad”
 
@@ -13,27 +13,11 @@ Učesnici su imali zadatak da naprave **aplikaciju na temu „softverska podršk
 - [Vojin Đorđević](https://github.com/djordjevicv)
 - [Saša Stanišić](https://github.com/sasastanisic)
 
-## Opis aplikacije
-
-<!--
-Na primer odgovoriti na neka od sledeća pitanja:
-Šta radi aplikacija? Koji je njen cil? Šta pruža korisniku? Kako rešava zadat problem? Koje su njene mogućnosti?
--->
-
 ## Tehnologije
-
-<!--
-- JavaScript
+- React.js
+- Tachyons
+- Spring Boot
 - MySQL
-- PHP
-- ...
--->
-
-## Uputstvo za pokretanje
-
-<!--
-Kratke instrukcije za pokretanje aplikacije, kao i šta je potrebno instalirati i podesiti radi njenog pokretanja.
--->
-
+  
 ----------
 Više o SICEF-u, organizatoru SICEF Hakatona, možete saznati na sajtu: https://sicef.info. 
